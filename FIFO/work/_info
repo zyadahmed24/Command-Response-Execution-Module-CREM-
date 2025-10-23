@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/AT Digital Course/Assignments/UART_RX
+vDF_SYNC
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 4F9BkoPTkRBkgS^2JE:;f3
+I9S1gPPmkD5<73aVAfkzBa2
+Z1 dD:/AT Digital Course/System/FIFO
+w1695070840
+8D:/AT Digital Course/System/FIFO/DF_SYNC.v
+FD:/AT Digital Course/System/FIFO/DF_SYNC.v
+L0 1
+Z2 OL;L;10.6d;65
+Z3 !s108 1695080082.000000
+!s107 D:/AT Digital Course/System/FIFO/DF_SYNC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/System/FIFO/DF_SYNC.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+n@d@f_@s@y@n@c
+vFIFO
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 T^^QAWDJ_BLC@=9SZGm0M3
+I@aR3S<2XSd4WkDJ<Sd1Y72
+R1
+w1695077426
+8D:/AT Digital Course/System/FIFO/FIFO_top.v
+FD:/AT Digital Course/System/FIFO/FIFO_top.v
+L0 1
+R2
+R3
+!s107 D:/AT Digital Course/System/FIFO/FIFO_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/System/FIFO/FIFO_top.v|
+!i113 0
+R4
+R5
+n@f@i@f@o
+vfifo_mem
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 S9RWCOBV2NHPN@o5fWJYP2
+I62]Y7ccY<gG4Rb6d>D;lj0
+R1
+w1695077354
+8D:/AT Digital Course/System/FIFO/FIFO_mem.v
+FD:/AT Digital Course/System/FIFO/FIFO_mem.v
+L0 1
+R2
+R3
+!s107 D:/AT Digital Course/System/FIFO/FIFO_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/System/FIFO/FIFO_mem.v|
+!i113 0
+R4
+R5
+vFIFO_RD
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;K1Y<K14UE5fNT2BE;a=m3
+IN2_o^96YJd<4<eeS7ib4f0
+R1
+w1695079240
+8D:/AT Digital Course/System/FIFO/FIFO_RD.v
+FD:/AT Digital Course/System/FIFO/FIFO_RD.v
+L0 1
+R2
+R3
+!s107 D:/AT Digital Course/System/FIFO/FIFO_RD.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/System/FIFO/FIFO_RD.v|
+!i113 0
+R4
+R5
+n@f@i@f@o_@r@d
+vFIFO_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 eAEMZ9CZ5leVDFBDd^izd1
+Ia@ML_JLKajFh1]:^1CG:_3
+R1
+w1695079761
+8D:/AT Digital Course/System/FIFO/FIFO_top_tb.v
+FD:/AT Digital Course/System/FIFO/FIFO_top_tb.v
+L0 3
+R2
+R3
+!s107 D:/AT Digital Course/System/FIFO/FIFO_top_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/System/FIFO/FIFO_top_tb.v|
+!i113 0
+R4
+R5
+n@f@i@f@o_tb
+vFIFO_WR
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 mcBV?I9KMaNCjOL6Jn?5A0
+IEC98DD=IgN_Y3j59Uijnk2
+R1
+w1695078969
+8D:/AT Digital Course/System/FIFO/FIFO_WR.v
+FD:/AT Digital Course/System/FIFO/FIFO_WR.v
+L0 1
+R2
+R3
+!s107 D:/AT Digital Course/System/FIFO/FIFO_WR.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/System/FIFO/FIFO_WR.v|
+!i113 0
+R4
+R5
+n@f@i@f@o_@w@r

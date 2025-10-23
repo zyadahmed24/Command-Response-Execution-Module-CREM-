@@ -1,0 +1,43 @@
+{D:/AT Digital Course/System/FIFO/FIFO_RD.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/System/FIFO/FIFO_RD.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module FIFO_RD
+
+Top level modules:
+	FIFO_RD
+
+} {} {}} {D:/AT Digital Course/System/FIFO/FIFO_top.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/System/FIFO/FIFO_top.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module FIFO
+
+Top level modules:
+	FIFO
+
+} {} {}} {D:/AT Digital Course/System/FIFO/FIFO_mem.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/System/FIFO/FIFO_mem.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module fifo_mem
+
+Top level modules:
+	fifo_mem
+
+} {} {}} {D:/AT Digital Course/System/FIFO/DF_SYNC.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/System/FIFO/DF_SYNC.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module DF_SYNC
+
+Top level modules:
+	DF_SYNC
+
+} {} {}} {D:/AT Digital Course/System/FIFO/FIFO_top_tb.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/System/FIFO/FIFO_top_tb.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module FIFO_tb
+
+Top level modules:
+	FIFO_tb
+
+} {} {}} {D:/AT Digital Course/System/FIFO/FIFO_WR.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/System/FIFO/FIFO_WR.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module FIFO_WR
+
+Top level modules:
+	FIFO_WR
+
+} {} {}}
